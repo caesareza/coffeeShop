@@ -1,0 +1,46 @@
+.slide-container {
+    padding: 0px 100px 100px 100px;
+    width: 100%;
+    background-color: #c0aa83;
+}
+
+.slide-container div {
+    display: inline-block;
+    font-family: 'Kanit';
+    max-width: 50%;
+}
+
+.slide-container .slide-image {
+    align-items: center;
+}
+
+.heading1 {
+    font-size: 4rem;
+}
+
+.heading2 {
+    font-size: 3rem;
+}
+
+.button1, .button2 {
+    font-family: 'Kanit';
+    padding: 15px;
+    font-weight: 800;
+    font-size: 1.2rem;
+    color: white;
+    border: none;
+    margin-top: 50px;
+}
+
+.button1 {
+    background-color: #242424;
+    margin-right: 40px;
+}
+
+.button2 {
+    background-color: #242424;
+}
+
+.slide-container img {
+    max-width: 100%;
+}

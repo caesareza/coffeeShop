@@ -1,0 +1,22 @@
+.history {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 100px 100px 0px;
+    font-family: 'Kanit';
+}
+
+.history img {
+    max-width: 30%;
+    border-radius: 0px 50px 50px 0px;
+}
+
+.history .right {
+    padding-left: 100px;
+}
+
+.history .right h2 {
+    color: #c0aa83;
+    font-size: 4rem;
+}
